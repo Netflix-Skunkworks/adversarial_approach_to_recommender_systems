@@ -1,6 +1,7 @@
 
 This repository contains the code to reproduce the results in the RecSys 2022 paper
 titled "Adversary or Friend? An Adversarial Approach to Improving Recommender Systems"
+https://dl.acm.org/doi/abs/10.1145/3523227.3546784
 
 
 wease.py --> runs a weighted version of EASE where the weights are derived from the user 
