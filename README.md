@@ -40,5 +40,6 @@ MSD:
 EASE       : C=0.0002, B=0.0
 EASE-IPW   : C=0.0002, B=0.4
 R-LARM    :  C=0.0002, B=500.0, lr=1e-4
-R-LARM(NN):  C=0.005,  B=500.0, lr=1e-4, dim=6
+R-LARM(NN):  C=0.0005, B=500.0, lr=1e-4, dim=9
 MSD batch_size was set at 8*1024 while the other two had a fixed batch size of 1024.
+
